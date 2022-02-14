@@ -2,7 +2,7 @@
 
 ## About Laravel-multi-auth-guard
 
-Laravel-multi-auth-guard is a web application develop for multi authentication. This project is easly create multi auth gard.
+Laravel-multi-auth-guard is a web application develop for multi authentication. This project is easly create multi auth guard.
 
 
 ## Contributing
